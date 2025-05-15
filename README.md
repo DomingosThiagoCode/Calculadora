@@ -13,3 +13,6 @@ Ela permite realizar operações básicas de **adição, subtração, multiplica
 - **HTML**: estrutura básica da calculadora
 - **CSS**: estilização e layout visual
 - **JavaScript**: lógica de funcionamento da calculadora
+
+## Interface
+![Imagem calculadora](imagens/image.png)
